@@ -1,0 +1,38 @@
+State,temp,humidity,rainfall
+Andhra Pradesh,30,70,100
+Arunachal Pradesh,22.5,80,250
+Assam,25,80,250
+Bihar,27.5,70,120
+Chhattisgarh,30,70,135
+Goa,30,80,275
+Gujarat,32.5,65,80
+Haryana,25,60,70
+Himachal Pradesh,20,70,150
+Jharkhand,27.5,70,135
+Karnataka,27.5,70,115
+Kerala,30,80,275
+Madhya Pradesh,27.5,65,100
+Maharashtra,27.5,65,115
+Manipur,22.5,80,175
+Meghalaya,20,80,350
+Mizoram,22.5,80,2250
+Nagaland,22.5,80,175
+Odisha,27.5,70,150
+Punjab,25,60,70
+Rajasthan,30,40,50
+Sikkim,20,80,250
+Tamil Nadu,30,70,100
+Telangana,27.5,65,100
+Tripura,25,80,225
+Uttar Pradesh,25,65,100
+Uttarakhand,20,70,125
+West Bengal,27.5,80,175
+Andaman & Nicobar,28,80,300
+Chandigarh,24,60,80
+Dadra & Nagar Haveli and Daman & Diu,28,70,120
+Lakshadweep,28,85,290
+Delhi,28,60,80
+Puducherry,28,80,150
+Ladakh,14,50,20
+Jammu & Kashmir,20,60,100
+Jammu & Kashmir Ladakh,8,40,15
